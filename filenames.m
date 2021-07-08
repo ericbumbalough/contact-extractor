@@ -1,0 +1,54 @@
+%initialize strfiles
+
+
+
+strfiles{1}='Fall 2000 Officer List.doc';
+strfiles{2}='Fall 99 Officer List.doc';
+strfiles{3}='Officer List 2.doc';
+strfiles{4}='Officer List Fall 2003.doc';
+strfiles{5}='Officer List Fall 2004.doc';
+strfiles{6}='Officer List Fall 2005.doc';
+strfiles{7}='Officer List Fall 2006.doc';
+strfiles{8}='Officer List Fall 2007.doc';
+strfiles{9}='Officer List Fall 2008.doc';
+strfiles{10}='Officer List Fall 2009.doc';
+strfiles{11}='Officer List Fall 2010.doc';
+strfiles{12}='Officer List Fall 2011.doc';
+strfiles{13}='Officer List Fall 2012  - Copy - Copy.doc';
+strfiles{14}='Officer List Fall 2013.docx';
+strfiles{15}='Officer List S&S 2004.doc';
+strfiles{16}='Officer List S&S 2005.doc';
+strfiles{17}='Officer List Spring  2014.docx';
+strfiles{18}='Officer List Spring 2006.doc';
+strfiles{19}='Officer List Spring 2007.doc';
+strfiles{20}='Officer List Spring 2008.doc';
+strfiles{21}='Officer List Spring 2009.doc';
+strfiles{22}='Officer List Spring 2011.doc';
+strfiles{23}='Officer List Spring 2013.doc';
+strfiles{24}='Officer List Spring2012 - Copy.doc';
+strfiles{25}='Officer List SU 2005.doc';
+strfiles{26}='Officer List Summer  2014.docx';
+strfiles{27}='Officer List Summer 2006.doc';
+strfiles{28}='Officer List Summer 2007.doc';
+strfiles{29}='Officer List Summer 2008.doc';
+strfiles{30}='Officer List Summer 2009.doc';
+strfiles{31}='Officer List Summer 2010.doc';
+strfiles{32}='Officer List Summer 2011.doc';
+strfiles{33}='Officer List Summer 2012  - Copy.doc';
+strfiles{34}='Officer List Summer 2013 - Copy.doc';
+strfiles{35}='Officer List Winter 2003.doc';
+strfiles{36}='Officer List Winter 2004.doc';
+strfiles{37}='Officer List Winter 2005.doc';
+strfiles{38}='Officer List Winter 2006 update.doc';
+strfiles{39}='Officer List Winter 2007.doc';
+strfiles{40}='Officer List Winter 2008.doc';
+strfiles{41}='Officer List Winter 2009.doc';
+strfiles{42}='Officer List Winter 2010.doc';
+strfiles{43}='Officer List Winter 2011.doc';
+strfiles{44}='Officer List Winter 2012.doc';
+strfiles{45}='Officer List Winter 2013  - Copy - Copy - Copy.doc';
+strfiles{46}='Officer List Winter 2014 - Copy.docx';
+strfiles{47}='Officer List Winter 99.doc';
+strfiles{48}='Officer List.doc';
+strfiles{49}='Winter 2000 Officer List.doc';
+strfiles{50}='Winter 2001 Officer List.doc';
